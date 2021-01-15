@@ -4,8 +4,8 @@ This space was created to collectively plan and share about the GLAD DevDays hap
 
 ## Dates
 
-- **Wednesday, February 10, 2021 from 12:00 til 15:00 CET** (UTC/GMT +1)
-- **Thursday, February 11, 2021 from 12:00 til 15:00 CET** (UTC/GMT +1)
+- **Wednesday, February 10, 2021** from 12:00 til 15:00 CET (UTC/GMT +1)
+- **Thursday, February 11, 2021** from 12:00 til 15:00 CET (UTC/GMT +1)
 
 We will organise two sessions with an introduction to the technical structure of GLAD (on Day 1), followed by another open forum for discussion and hands-on sessions with fellow software developers. If you are a developer or there are developers in your organization that can join us, please register today using this link:
 
@@ -32,5 +32,5 @@ What we are going to do:
 
 ## Flyer 
 
-See the flyer (here).
+See the flyer [here](./DevDays flyer.pdf).
 
