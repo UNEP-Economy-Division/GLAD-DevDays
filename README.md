@@ -32,5 +32,5 @@ What we are going to do:
 
 ## Flyer 
 
-See the flyer [here](./DevDays flyer.pdf).
+See the flyer [here](./DevDays%20flyer.pdf).
 
