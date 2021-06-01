@@ -1,5 +1,10 @@
 # GLAD-DevDays2021
-This space was created to collectively plan and share about the GLAD DevDays happening in February 2021. Please join to start sharing ideas for co-organising a relevant and interesting online event.
+This space was created to collectively plan and share about the GLAD DevDays happening in February 2021. We had a super interesting and inspiring online event with 37 people from all over the world. See the slides below, they also include a summary of the ideas discussed.
+
+
+## Slides 
+
+See the slides from both days [here](./GLADDeveloperDays_Slides.pdf).
 
 
 ## Dates
